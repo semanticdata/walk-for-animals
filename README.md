@@ -1,2 +1,3 @@
-# walk-for-animals
- Animal Humane Society yearly Walk for Animals
+# Walk For Animals - website
+
+Minnesota's Animal Humane Society yearly Walk for Animals.
