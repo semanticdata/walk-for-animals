@@ -25,7 +25,6 @@
   -moz-column-gap: 5px;
   column-count: 4;
   column-gap: 5px;
-  /* margin-top: 2rem; */
 }
 
 #gallery img {
@@ -88,4 +87,9 @@
   max-width:
   1216px;
   max-height: 684px;
+}
+
+html {
+  padding: 15rem;
+  margin: 5rem;
 }
