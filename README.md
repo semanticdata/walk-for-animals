@@ -1,3 +1,3 @@
-# Walk For Animals - website
+# Walk For Animals - Donation Landing Page
 
-Minnesota's Animal Humane Society yearly Walk for Animals.
+Donation landing page for the Minnesota Animal Humane Society yearly Walk for Animals fundraiser.
